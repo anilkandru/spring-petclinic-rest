@@ -8,7 +8,7 @@
 	<version>1.5.2</version>
 	<packaging>war</packaging>
 
-	<name>petclinic</name>
+	<name>petclinicc</name>
 	<description>Spring petclinic project</description>
 
 	<parent>
